@@ -1,11 +1,10 @@
-# nodeJS-image-upload
+# Upload de imagem usando multer e express em Node.js 
 
-Simple NodeJS Express Program get files as input from user and upload it to the server. 
+Aplicação simples de upload de imagem. 
 
-To install necessary packages and start the server: 
+Intalação 
     
-    npm install && npm start
+   $ npm install 
+   $ npm start
 
-Then go to [http://localhost:3000](http://localhost:3000). 
-
-Explanation - https://medium.com/@nitinpatel_20236/image-upload-via-nodejs-server-3fe7d3faa642
+Servidor ira iniciar em [http://localhost:3000](http://localhost:3000). 
